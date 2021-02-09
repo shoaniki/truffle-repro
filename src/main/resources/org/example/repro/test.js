@@ -1,0 +1,5 @@
+face = {
+    smile: function() {
+        return "😃";
+    }
+}
