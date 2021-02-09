@@ -1,0 +1,2 @@
+Small reproduction case demonstrating a problem when a GraalVM polyglot
+language is used to implement an interface with default methods.
